@@ -6,8 +6,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinuxZhou93&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
